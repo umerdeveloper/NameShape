@@ -11,9 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        let nameShapeView = NameShape(frame: .init(x: 50, y: 150, width: 300, height: 300))
+        view.addSubview(nameShapeView)
     }
-
-
 }
 
