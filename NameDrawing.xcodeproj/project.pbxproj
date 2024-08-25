@@ -17,6 +17,7 @@
 		0B0830582C7B016900C5AC44 /* NameDrawingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0830572C7B016900C5AC44 /* NameDrawingUITests.swift */; };
 		0B08305A2C7B016900C5AC44 /* NameDrawingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0830592C7B016900C5AC44 /* NameDrawingUITestsLaunchTests.swift */; };
 		0B0830682C7B018700C5AC44 /* NameShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0830672C7B018700C5AC44 /* NameShape.swift */; };
+		0B08306A2C7B12E900C5AC44 /* ProekspertShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B0830692C7B12E900C5AC44 /* ProekspertShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0B0830572C7B016900C5AC44 /* NameDrawingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameDrawingUITests.swift; sourceTree = "<group>"; };
 		0B0830592C7B016900C5AC44 /* NameDrawingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameDrawingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0B0830672C7B018700C5AC44 /* NameShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameShape.swift; sourceTree = "<group>"; };
+		0B0830692C7B12E900C5AC44 /* ProekspertShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProekspertShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				0B0830362C7B016700C5AC44 /* AppDelegate.swift */,
 				0B0830382C7B016700C5AC44 /* SceneDelegate.swift */,
 				0B08303A2C7B016700C5AC44 /* ViewController.swift */,
+				0B0830692C7B12E900C5AC44 /* ProekspertShape.swift */,
 				0B08303C2C7B016700C5AC44 /* Main.storyboard */,
 				0B08303F2C7B016900C5AC44 /* Assets.xcassets */,
 				0B0830412C7B016900C5AC44 /* LaunchScreen.storyboard */,
@@ -272,6 +275,7 @@
 				0B08303B2C7B016700C5AC44 /* ViewController.swift in Sources */,
 				0B0830372C7B016700C5AC44 /* AppDelegate.swift in Sources */,
 				0B0830682C7B018700C5AC44 /* NameShape.swift in Sources */,
+				0B08306A2C7B12E900C5AC44 /* ProekspertShape.swift in Sources */,
 				0B0830392C7B016700C5AC44 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
